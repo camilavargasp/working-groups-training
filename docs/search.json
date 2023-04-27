@@ -25,7 +25,7 @@
     "href": "index.html#literate-analysis-with-rmarkdown-into-to-quarto",
     "title": "Data Science Training Menu",
     "section": "Literate Analysis with RMarkdown (into to Quarto?)",
-    "text": "Literate Analysis with RMarkdown (into to Quarto?)\n\nPrerequisites: Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.\nLearning Goals:\n\nIntroduce RMarkdown as a tool for literate analysis\nLearn markdown syntax and run R code in Rmarkdown\nUnderstand the “environments” and file paths when working with RMarkdown documents\n\nDuration: 2 hours"
+    "text": "Literate Analysis with RMarkdown (into to Quarto?)\n\nPrerequisites:\n\nBasic knowledge about R and RStudio.\nIf you are new to R consider taking our Intro to programming in R using RStudio lesson.\n\nLearning Goals:\n\nIntroduce RMarkdown as a tool for literate analysis\nLearn markdown syntax and run R code in Rmarkdown\nUnderstand the “environments” and file paths when working with RMarkdown documents\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#cleaning-and-wrangling-data-i",
@@ -56,18 +56,11 @@
     "text": "Advanced Data Visualization\n\nPrerequisites:\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr, tidyr and ggplot2\n\nLearning Goals:\nDuration:"
   },
   {
-    "objectID": "index.html#publishing-your-analysis-to-the-web",
-    "href": "index.html#publishing-your-analysis-to-the-web",
-    "title": "Data Science Training Menu",
-    "section": "Publishing your Analysis to the web",
-    "text": "Publishing your Analysis to the web\n\nPrerequisites:\nLearning Goals:\nDuration"
-  },
-  {
     "objectID": "index.html#reproducible-papers",
     "href": "index.html#reproducible-papers",
     "title": "Data Science Training Menu",
     "section": "Reproducible papers",
-    "text": "Reproducible papers\n\nPrerequisites:\n-   Basic knowledge about R and RStudio\n-   Familiarity with Rmarkdown\nLearning Goals:\n\nIntroduce the concept of reserach compendium\nLearn how to use R to package your work by building a reproducible paper in RMarkdown\n\nDuration:"
+    "text": "Reproducible papers\n\nPrerequisites: - Basic knowledge about R and RStudio - Familiarity with Rmarkdown\nLearning Goals:\n\nIntroduce the concept of reserach compendium\nLearn how to use R to package your work by building a reproducible paper in RMarkdown\n\nDuration:"
   },
   {
     "objectID": "index.html#using-sf-for-spatial-data",
@@ -110,6 +103,13 @@
     "title": "Data Science Training Menu",
     "section": "GitHub for project management",
     "text": "GitHub for project management\n\nPrerequisites:\nLearning Goals:\nDuration"
+  },
+  {
+    "objectID": "index.html#publishing-your-analysis-to-the-web",
+    "href": "index.html#publishing-your-analysis-to-the-web",
+    "title": "Data Science Training Menu",
+    "section": "Publishing your Analysis to the web",
+    "text": "Publishing your Analysis to the web\n\nPrerequisites:\nLearning Goals:\nDuration"
   },
   {
     "objectID": "about.html",

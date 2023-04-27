@@ -21,7 +21,9 @@ For all training modules you will need - **Required materials:** - Computer with
 
 ## Literate Analysis with RMarkdown (into to Quarto?)
 
--   **Prerequisites:** Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.
+-   **Prerequisites:** 
+    - Basic knowledge about R and RStudio. 
+    - If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
 -   **Learning Goals:**
 
@@ -34,7 +36,6 @@ For all training modules you will need - **Required materials:** - Computer with
 ## Cleaning and Wrangling Data I
 
 -   **Prerequisites:** 
-
     -   Basic knowledge about R and RStudio. 
     -   If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
@@ -49,7 +50,6 @@ For all training modules you will need - **Required materials:** - Computer with
 ## Cleaning and Wrangling Data II
 
 -   **Prerequisites:**
-
     -   Basic knowledge about R and RStudio
     -   Familiarity with the packages `dyplr` and `tidyr`
     -   General understanding of cleaning and wrangling data
@@ -66,7 +66,6 @@ For all training modules you will need - **Required materials:** - Computer with
 ## Intro to data Visualization
 
 -   **Prerequisites:**
-
     -   Basic knowledge about R and RStudio
     -   Familiarity with the packages `dyplr` and `tidyr`
 
@@ -93,7 +92,6 @@ For all training modules you will need - **Required materials:** - Computer with
 ## Reproducible papers
 
 -   **Prerequisites:**
-
         -   Basic knowledge about R and RStudio
         -   Familiarity with Rmarkdown
 
@@ -107,7 +105,6 @@ For all training modules you will need - **Required materials:** - Computer with
 ## Using `sf` for Spatial Data
 
 -   **Prerequisites:**
-
     -   Basic knowledge about R and RStudio
     -   Familiarity with the packages `dyplr`, `tidyr` and `ggplot2`
 
