@@ -2,133 +2,157 @@
 title: "Data Science Training Menu"
 ---
 
-
-For all traininf modules you will need
-- **Required materials:**
-    - Computer with recent versions of R and RStudio installed
-
-
+For all training modules you will need - **Required materials:** - Computer with recent versions of R and RStudio installed
 
 ## Introduction to programming in R using RStudio
 
-- **Prerequisites:** None
+-   **Prerequisites:** None
 
+-   **Learning Goals:**
 
-- **Learning Goals:**
+    1.  Get familiarize with RStudio interface
+    2.  Learn the basics of R syntax (functions, packages, objects, vectors, assignment operator)
+    3.  Understand the difference between a script and the console
+    4.  Create and inspect vectors, identifying their class, content and structure
+    5.  Read and inspect data in R and understand the data structure
+    6.  Apply basic mathematical operations with values in a data table
 
-1. Get familiarize with RStudio interface
-2. Learn the basics of R syntax (functions, packages, objects, vectors,  assignment operator)
-3. Understand the difference between a script and the console
-4. Create and inspect vectors, identifying their class, content and structure
-5. Read and inspect data in R and understand the data structure
-6. Apply basic mathematical operations with values in a data table
-
-
-- **Duration:** 2hours
+-   **Duration:** 2 hours
 
 ## Literate Analysis with RMarkdown (into to Quarto?)
-- **Prerequisites:**  Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
-- **Required materials:**
-    - _!!!Check for other installations needed?Tiny text?_
-    - _!!!Quarto?!!!_
-    
-- **Learning Goals:**
+-   **Prerequisites:** Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
-1. Introduce RMarkdown as a tool for literate analysis
-2. Learn markdown syntax and run R code in Rmarkdown
-3. Understand the “environments” and file paths when working with RMarkdown documents
+-   **Learning Goals:**
 
-- **Duration:** 2 hours
+    1.  Introduce RMarkdown as a tool for literate analysis
+    2.  Learn markdown syntax and run R code in Rmarkdown
+    3.  Understand the "environments" and file paths when working with RMarkdown documents
 
+-   **Duration:** 2 hours
 
 ## Cleaning and Wrangling Data I
-- **Prerequisites:**  Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
-- **Required materials:**
-    - Computer with recent versions of R and RStudio installed
+-   **Prerequisites:** 
 
-- **Learning Goals:** 
-1. Understand the basics of data wrangling conceptually
-2. Introduce `dplyr` and `tidyr` functions to clean and wrangle data for analysis
-3. Learn about the pipe operator as a tool to pass on argument(s) through a sequence of functions 
+    -   Basic knowledge about R and RStudio. 
+    -   If you are new to R consider taking our Intro to programming in R using RStudio lesson.
 
-- **Duration:** 2 hours
+-   **Learning Goals:**
 
+    1.  Understand the basics of data wrangling conceptually
+    2.  Introduce `dplyr` and `tidyr` functions to clean and wrangle data for analysis
+    3.  Learn about the pipe operator as a tool to pass on argument(s) through a sequence of functions
+
+-   **Duration:** 2 hours
 
 ## Cleaning and Wrangling Data II
 
-- **Prerequisites:**
-      -   Basic knowledge about R and RStudio
-      -   Familiarity with the packages `dyplr` and `tidyr` 
-      -   General understanding of cleaning and wrangling data
+-   **Prerequisites:**
 
-- **Learning Goals:**
-- **Duration:**
+    -   Basic knowledge about R and RStudio
+    -   Familiarity with the packages `dyplr` and `tidyr`
+    -   General understanding of cleaning and wrangling data
+
+
+-   **Learning Goals:**
+
+    1. Introduce advanced data wrangling techniques
+    2. Learn how to best use `dplyr` functions to solve data cleaning challenges
+    3. Discuss common syntax mistakes when wrangling data
+
+-   **Duration:** 2 hours
 
 ## Intro to data Visualization
 
-- **Prerequisites:** 
-- **Learning Goals:**
-- **Duration:**
+-   **Prerequisites:**
+
+    -   Basic knowledge about R and RStudio
+    -   Familiarity with the packages `dyplr` and `tidyr`
+
+-   **Learning Goals:**
+
+    1. Introduce the basics of the `ggplot2` package to create static plots
+    2. Understand how to use `ggplot2`’s theme abilities to create publication-grade graphics
+    3. Learn the basics of the leaflet package to create interactive maps
+
+
+-   **Duration:** 2 hours
 
 ## Advanced Data Visualization
 
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
+-   **Prerequisites:**
+    -   Basic knowledge about R and RStudio
+    -   Familiarity with the packages `dyplr`, `tidyr` and `ggplot2`
 
-## Publishing your Analysis  to the web
+-   **Learning Goals:**
+-   **Duration:**
 
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
 
 
 ## Reproducible papers
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
+
+-   **Prerequisites:**
+
+        -   Basic knowledge about R and RStudio
+        -   Familiarity with Rmarkdown
+
+-   **Learning Goals:**
+
+    1. Introduce the concept of reserach compendium
+    2. Learn how to use R to package your work by building a reproducible paper in RMarkdown
+
+-   **Duration:**
+
+## Using `sf` for Spatial Data
+
+-   **Prerequisites:**
+
+    -   Basic knowledge about R and RStudio
+    -   Familiarity with the packages `dyplr`, `tidyr` and `ggplot2`
+
+-   **Learning Goals:**
+
+    1. Undestand how to use the `sf` package to wrangle spatial data
+    2. Introduce static mapping with `ggplot`
+    3. Create customized interactive maps with `leaflet`
 
 
-## Using sf for Spatial Data
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
+-   **Duration:**
 
 ## Text Analysis in R
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
 
+-   **Prerequisites:**
+-   **Learning Goals:**
+-   **Duration**
 
 ## Working with Git and GitHub
 
-- **Prerequisites:**
-- **Before the workshop**
-      -Create a GitHub account
-- **Learning Goals:**
-- **Duration**
-
+-   **Prerequisites:**
+-   **Before the workshop** -Create a GitHub account
+-   **Learning Goals:**
+-   **Duration**
 
 ## Collaborating with GitHub
 
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
-
-
+-   **Prerequisites:**
+-   **Learning Goals:**
+-   **Duration**
 
 ## GitHub Workflows
 
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
+-   **Prerequisites:**
+-   **Learning Goals:**
+-   **Duration**
 
 ## GitHub for project management
-- **Prerequisites:**
-- **Learning Goals:**
-- **Duration**
 
+-   **Prerequisites:**
+-   **Learning Goals:**
+-   **Duration**
 
+## Publishing your Analysis to the web
 
+-   **Prerequisites:**
+-   **Learning Goals:**
+-   **Duration**
