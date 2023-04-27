@@ -1,11 +1,134 @@
 ---
-title: "working-groups-training"
+title: "Data Science Training Menu"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+For all traininf modules you will need
+- **Required materials:**
+    - Computer with recent versions of R and RStudio installed
 
-```{r}
-1 + 1
-```
+
+
+## Introduction to programming in R using RStudio
+
+- **Prerequisites:** None
+
+
+- **Learning Goals:**
+
+1. Get familiarize with RStudio interface
+2. Learn the basics of R syntax (functions, packages, objects, vectors,  assignment operator)
+3. Understand the difference between a script and the console
+4. Create and inspect vectors, identifying their class, content and structure
+5. Read and inspect data in R and understand the data structure
+6. Apply basic mathematical operations with values in a data table
+
+
+- **Duration:** 2hours
+
+## Literate Analysis with RMarkdown (into to Quarto?)
+- **Prerequisites:**  Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.
+
+- **Required materials:**
+    - _!!!Check for other installations needed?Tiny text?_
+    - _!!!Quarto?!!!_
+    
+- **Learning Goals:**
+
+1. Introduce RMarkdown as a tool for literate analysis
+2. Learn markdown syntax and run R code in Rmarkdown
+3. Understand the “environments” and file paths when working with RMarkdown documents
+
+- **Duration:** 2 hours
+
+
+## Cleaning and Wrangling Data I
+- **Prerequisites:**  Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.
+
+- **Required materials:**
+    - Computer with recent versions of R and RStudio installed
+
+- **Learning Goals:** 
+1. Understand the basics of data wrangling conceptually
+2. Introduce `dplyr` and `tidyr` functions to clean and wrangle data for analysis
+3. Learn about the pipe operator as a tool to pass on argument(s) through a sequence of functions 
+
+- **Duration:** 2 hours
+
+
+## Cleaning and Wrangling Data II
+
+- **Prerequisites:**
+      -   Basic knowledge about R and RStudio
+      -   Familiarity with the packages `dyplr` and `tidyr` 
+      -   General understanding of cleaning and wrangling data
+
+- **Learning Goals:**
+- **Duration:**
+
+## Intro to data Visualization
+
+- **Prerequisites:** 
+- **Learning Goals:**
+- **Duration:**
+
+## Advanced Data Visualization
+
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+## Publishing your Analysis  to the web
+
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+
+## Reproducible papers
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+
+## Using sf for Spatial Data
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+## Text Analysis in R
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+
+## Working with Git and GitHub
+
+- **Prerequisites:**
+- **Before the workshop**
+      -Create a GitHub account
+- **Learning Goals:**
+- **Duration**
+
+
+## Collaborating with GitHub
+
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+
+
+## GitHub Workflows
+
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+## GitHub for project management
+- **Prerequisites:**
+- **Learning Goals:**
+- **Duration**
+
+
+
