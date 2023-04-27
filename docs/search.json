@@ -11,49 +11,49 @@
     "href": "index.html",
     "title": "Data Science Training Menu",
     "section": "",
-    "text": "For all traininf modules you will need - Required materials: - Computer with recent versions of R and RStudio installed"
+    "text": "For all training modules you will need - Required materials: - Computer with recent versions of R and RStudio installed"
   },
   {
     "objectID": "index.html#introduction-to-programming-in-r-using-rstudio",
     "href": "index.html#introduction-to-programming-in-r-using-rstudio",
     "title": "Data Science Training Menu",
     "section": "Introduction to programming in R using RStudio",
-    "text": "Introduction to programming in R using RStudio\n\nPrerequisites: None\nLearning Goals:\n\n\nGet familiarize with RStudio interface\nLearn the basics of R syntax (functions, packages, objects, vectors, assignment operator)\nUnderstand the difference between a script and the console\nCreate and inspect vectors, identifying their class, content and structure\nRead and inspect data in R and understand the data structure\nApply basic mathematical operations with values in a data table\n\n\nDuration: 2hours"
+    "text": "Introduction to programming in R using RStudio\n\nPrerequisites: None\nLearning Goals:\n\nGet familiarize with RStudio interface\nLearn the basics of R syntax (functions, packages, objects, vectors, assignment operator)\nUnderstand the difference between a script and the console\nCreate and inspect vectors, identifying their class, content and structure\nRead and inspect data in R and understand the data structure\nApply basic mathematical operations with values in a data table\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#literate-analysis-with-rmarkdown-into-to-quarto",
     "href": "index.html#literate-analysis-with-rmarkdown-into-to-quarto",
     "title": "Data Science Training Menu",
     "section": "Literate Analysis with RMarkdown (into to Quarto?)",
-    "text": "Literate Analysis with RMarkdown (into to Quarto?)\n\nPrerequisites: Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.\nRequired materials:\n\n!!!Check for other installations needed?Tiny text?\n!!!Quarto?!!!\n\nLearning Goals:\n\n\nIntroduce RMarkdown as a tool for literate analysis\nLearn markdown syntax and run R code in Rmarkdown\nUnderstand the “environments” and file paths when working with RMarkdown documents\n\n\nDuration: 2 hours"
+    "text": "Literate Analysis with RMarkdown (into to Quarto?)\n\nPrerequisites: Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.\nLearning Goals:\n\nIntroduce RMarkdown as a tool for literate analysis\nLearn markdown syntax and run R code in Rmarkdown\nUnderstand the “environments” and file paths when working with RMarkdown documents\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#cleaning-and-wrangling-data-i",
     "href": "index.html#cleaning-and-wrangling-data-i",
     "title": "Data Science Training Menu",
     "section": "Cleaning and Wrangling Data I",
-    "text": "Cleaning and Wrangling Data I\n\nPrerequisites: Basic knowledge about R and RStudio. If you are new to R consider taking our Intro to programming in R using RStudio lesson.\nRequired materials:\n\nComputer with recent versions of R and RStudio installed\n\nLearning Goals:\n\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of functions\n\n\nDuration: 2 hours"
+    "text": "Cleaning and Wrangling Data I\n\nPrerequisites:\n\nBasic knowledge about R and RStudio.\nIf you are new to R consider taking our Intro to programming in R using RStudio lesson.\n\nLearning Goals:\n\nUnderstand the basics of data wrangling conceptually\nIntroduce dplyr and tidyr functions to clean and wrangle data for analysis\nLearn about the pipe operator as a tool to pass on argument(s) through a sequence of functions\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#cleaning-and-wrangling-data-ii",
     "href": "index.html#cleaning-and-wrangling-data-ii",
     "title": "Data Science Training Menu",
     "section": "Cleaning and Wrangling Data II",
-    "text": "Cleaning and Wrangling Data II\n\nPrerequisites: - Basic knowledge about R and RStudio - Familiarity with the packages dyplr and tidyr - General understanding of cleaning and wrangling data\nLearning Goals:\nDuration:"
+    "text": "Cleaning and Wrangling Data II\n\nPrerequisites:\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr and tidyr\nGeneral understanding of cleaning and wrangling data\n\nLearning Goals:\n\nIntroduce advanced data wrangling techniques\nLearn how to best use dplyr functions to solve data cleaning challenges\nDiscuss common syntax mistakes when wrangling data\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#intro-to-data-visualization",
     "href": "index.html#intro-to-data-visualization",
     "title": "Data Science Training Menu",
     "section": "Intro to data Visualization",
-    "text": "Intro to data Visualization\n\nPrerequisites:\nLearning Goals:\nDuration:"
+    "text": "Intro to data Visualization\n\nPrerequisites:\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr and tidyr\n\nLearning Goals:\n\nIntroduce the basics of the ggplot2 package to create static plots\nUnderstand how to use ggplot2’s theme abilities to create publication-grade graphics\nLearn the basics of the leaflet package to create interactive maps\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#advanced-data-visualization",
     "href": "index.html#advanced-data-visualization",
     "title": "Data Science Training Menu",
     "section": "Advanced Data Visualization",
-    "text": "Advanced Data Visualization\n\nPrerequisites:\nLearning Goals:\nDuration"
+    "text": "Advanced Data Visualization\n\nPrerequisites:\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr, tidyr and ggplot2\n\nLearning Goals:\nDuration:"
   },
   {
     "objectID": "index.html#publishing-your-analysis-to-the-web",
@@ -67,14 +67,14 @@
     "href": "index.html#reproducible-papers",
     "title": "Data Science Training Menu",
     "section": "Reproducible papers",
-    "text": "Reproducible papers\n\nPrerequisites:\nLearning Goals:\nDuration"
+    "text": "Reproducible papers\n\nPrerequisites:\n-   Basic knowledge about R and RStudio\n-   Familiarity with Rmarkdown\nLearning Goals:\n\nIntroduce the concept of reserach compendium\nLearn how to use R to package your work by building a reproducible paper in RMarkdown\n\nDuration:"
   },
   {
     "objectID": "index.html#using-sf-for-spatial-data",
     "href": "index.html#using-sf-for-spatial-data",
     "title": "Data Science Training Menu",
     "section": "Using sf for Spatial Data",
-    "text": "Using sf for Spatial Data\n\nPrerequisites:\nLearning Goals:\nDuration"
+    "text": "Using sf for Spatial Data\n\nPrerequisites:\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr, tidyr and ggplot2\n\nLearning Goals:\n\nUndestand how to use the sf package to wrangle spatial data\nIntroduce static mapping with ggplot\nCreate customized interactive maps with leaflet\n\nDuration:"
   },
   {
     "objectID": "index.html#text-analysis-in-r",
