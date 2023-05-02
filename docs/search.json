@@ -74,14 +74,14 @@
     "href": "index.html#text-analysis-in-r",
     "title": "Data Science Training Menu",
     "section": "Text Analysis in R",
-    "text": "Text Analysis in R\n\nPrerequisites:\nLearning Goals:\nDuration"
+    "text": "Text Analysis in R\n\nPrerequisites:\n\nBasic knowledge about R and RStudio\nFamiliarity with the packages dyplr, tidyr and ggplot2\n\nLearning Goals:\n\nWhat a token is and how they are used\nHow to use stop words\nHow to customize stop words\nHow to give structure to unstructured text\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#working-with-git-and-github",
     "href": "index.html#working-with-git-and-github",
     "title": "Data Science Training Menu",
     "section": "Working with Git and GitHub",
-    "text": "Working with Git and GitHub\n\nPrerequisites:\nBefore the workshop -Create a GitHub account\nLearning Goals:\nDuration"
+    "text": "Working with Git and GitHub\n\nPrerequisites:\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity with R and RStudio\n\nLearning Goals:\n\nWhy Git is useful for reproducible analysis\nLearn the basics of Git and GitHub to track changes of your project\nPractice the Git workflow: pull, stage, commit,pull, push through RStudio\nSetting up a Git repository using different workflows\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#collaborating-with-github",
@@ -102,14 +102,14 @@
     "href": "index.html#github-for-project-management",
     "title": "Data Science Training Menu",
     "section": "GitHub for project management",
-    "text": "GitHub for project management\n\nPrerequisites:\nLearning Goals:\nDuration"
+    "text": "GitHub for project management\n\nPrerequisites:\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity with GitHub\n\nLearning Goals:\n\nLearn about issues in GitHub\nProjecs\nInformative READMEs\n\nDuration: 2 hours"
   },
   {
     "objectID": "index.html#publishing-your-analysis-to-the-web",
     "href": "index.html#publishing-your-analysis-to-the-web",
     "title": "Data Science Training Menu",
     "section": "Publishing your Analysis to the web",
-    "text": "Publishing your Analysis to the web\n\nPrerequisites:\nLearning Goals:\nDuration"
+    "text": "Publishing your Analysis to the web\n\nPrerequisites:\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity with GitHub\nBe comfortable using R and RStudio\n\nLearning Goals:\n\nSet up Git, GitHub (+Pages), and R Markdown to publish an analysis to the web\n\nDuration: 1 hour"
   },
   {
     "objectID": "about.html",
@@ -117,5 +117,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#collaborating-using-git-and-github",
+    "href": "index.html#collaborating-using-git-and-github",
+    "title": "Data Science Training Menu",
+    "section": "Collaborating using Git and GitHub",
+    "text": "Collaborating using Git and GitHub\n\nPrerequisites:\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity with Git and GitHub\nBe comfortable using R and RStudio\n\nLearning Goals:\n\nLearn how to use Git and GitHub to collaborate with colleagues on code\nIdentify what can cause conflicts when collaborating\nWalk-though how to resolve a conflict\nRevise workflows to avoid conflicts\n\nDuration"
+  },
+  {
+    "objectID": "index.html#github-workflows-pull-request-branches-and-forks",
+    "href": "index.html#github-workflows-pull-request-branches-and-forks",
+    "title": "Data Science Training Menu",
+    "section": "GitHub Workflows: Pull Request, Branches and Forks",
+    "text": "GitHub Workflows: Pull Request, Branches and Forks\n\nPrerequisites:\n\nHave a GitHub account (you can sign up at github.com)\nFamiliarity collaborating using Git and GitHub\nBe comfortable using R and RStudio\n\nLearning Goals:\n1.Become familiar with additional mechanisms to collaborate using Git 2.Contribute code to a colleague’s repository using Pull Requests\nDuration: 2 hours"
   }
 ]
